@@ -1,2 +1,1 @@
 book details such as publish Date of book issue
-reg no of student
